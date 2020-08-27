@@ -17,3 +17,5 @@ Stimulate your memory and have fun with Magical flip games. A magical flip game 
 1. npm install
 2. react-native run-android
 
+# Download and Install app
+Available at App store (Only for iphone / ipad user) - https://apps.apple.com/us/app/alif-laam-meem/id1511715564
